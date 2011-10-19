@@ -1,0 +1,21 @@
+.index #recentlyAddedMedia {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.index #recentlyAddedMedia li {
+	display: block;
+	float: left;
+	width: 120px;
+	height: 150px;
+	overflow: hidden;
+	margin: 0 5px 0 5px;
+}
+.index #recentlyAddedMedia li img {
+	width: 100%;
+	overflow: hidden;
+}
+
+.index h2 {
+	clear: left;
+}

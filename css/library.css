@@ -1,0 +1,4 @@
+.index #recentlyAddedMedia li img {
+	height: 150px;
+	overflow: hidden;
+}
